@@ -21,7 +21,7 @@ This project is an interactive Excel dashboard created using Super Store sales d
 
 ## Files Included
 - Dashboard.xlsx
-- Super Store Dataset
+- Dataset
 - Dashboard Screenshot
 
 ## Author
